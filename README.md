@@ -21,8 +21,8 @@ Therefore feel free to propose changes directly with a MR or Issue.
 | delete | create    |                                                          |                                                        |
 
 # Nouns
-| Noun   | Description and when to use                                             | Example(s)             |
-|--------|-------------------------------------------------------------------------|------------------------|
-| size   | A measurement to define how much of a specified unit is in the thing.   | float cylinderVolumeMM |
-| length | Defines how many of a specified unit is from at least two destinations. | int64 stringLength     |
-| count  | Defines the number of things in a group                                 | int64 characterCount   |
+| Noun   | Description and when to use                                             | Example(s)               |
+|--------|-------------------------------------------------------------------------|--------------------------|
+| size   | A measurement to define how much of a specified unit is in the thing.   | `float cylinderVolumeMM` |
+| length | Defines how many of a specified unit is from at least two destinations. | `int64 stringLength`     |
+| count  | Defines the number of things in a group                                 | `int64 characterCount`   |
